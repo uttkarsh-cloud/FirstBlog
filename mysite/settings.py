@@ -26,10 +26,6 @@ SECRET_KEY = 'xk+er8vrlxxjr=3(_(xl1$&8%cp$36sgf0#y#b_0-+xu7z=c6c'
 DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1','.pythonanywhere.com']
-
-
-# Application definition
-
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
