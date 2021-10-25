@@ -1,1 +1,1 @@
-# FirstBlog which is not totally useless
+#firstblog is a simple django blog website.
