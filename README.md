@@ -1,1 +1,1 @@
-# FirstBlog which is totally useless.
+# FirstBlog which is not totally useless
